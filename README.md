@@ -39,6 +39,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 [![AWS Knowledge: Media & Entertainment: Direct-to-Consumer and Broadcast Foundations](https://images.credly.com/size/110x110/images/59b94f73-1a96-4467-8af9-5771e65932e7/blob)](https://www.credly.com/badges/8d7292f7-8c19-4fd0-b716-db09cc6240a0 "AWS Knowledge: Media & Entertainment: Direct-to-Consumer and Broadcast Foundations")
 [![AWS Knowledge: Amazon Braket](https://images.credly.com/size/110x110/images/811c6414-b84e-4879-bc5c-863fa62be6aa/blob)](https://www.credly.com/earner/earned/badge/765e059e-65db-4e0d-882b-7ef60f67eed4 "AWS Knowledge: Amazon Braket")
 [![AWS Knowledge: Networking Core](https://images.credly.com/size/110x110/images/e1c202b1-bca1-469a-9149-127b4fe891d7/blob)](https://www.credly.com/badges/2e741aad-df03-448b-823b-addadc68bb74 "AWS Knowledge: Networking Core")
+
 [![Cisco Knowledge: Python Essentials 1](https://images.credly.com/size/90x90/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png)](https://www.credly.com/earner/earned/badge/2f7487ce-5351-4b2f-b852-560660f2df00 "Cisco Knowledge: Python Essentials 1")
 [![Cisco Knowledge: Python Essentials 2](https://images.credly.com/size/90x90/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png)](https://www.credly.com/badges/59624a1e-bbb0-41e8-8a33-2c2a1a807011 "Cisco Knowledge: Python Essentials 2")
 [![Cisco Knowledge: HTML Essentials](https://images.credly.com/size/90x90/images/b1c17d0c-e76b-45fc-9b28-87b01ae1caf3/blob)](https://www.credly.com/badges/3b5f533f-b0ff-4f7a-8f2a-991ff8cc7b1c "Cisco Knowledge: HTML Essentials")
